@@ -211,7 +211,7 @@ CALCULATE(
 
 ## Dataset
 
-Source: Brazilian E-Commerce Public Dataset by Olist
+Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 This is real commercial data from Brazil's largest department store marketplace, anonymized by the original publisher. It covers 100K+ orders from 2016-2018 across multiple Brazilian marketplaces. All store and partner names have been replaced with Game of Thrones house names.
 
