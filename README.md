@@ -50,6 +50,8 @@ The interactive Power BI dashboard tells the complete story across two pages:
 
 ### Page 1 - Customer Revenue & Churn Overview
 
+![Power BI dashboard page 1 - customer revenue and churn overview](dashboard/screenshots/Page%201.png)
+
 | Visual | What It Shows |
 |---|---|
 | 4 KPI Cards | R$15.42M revenue, 93.35K customers, 80.09% churn, R$12.52M at risk |
@@ -59,6 +61,8 @@ The interactive Power BI dashboard tells the complete story across two pages:
 | Segment & Churned Slicers | Interactive filtering across all visuals |
 
 ### Page 2 - Customer Triage & Retention Intelligence
+
+![Power BI dashboard page 2 - customer triage and retention intelligence](dashboard/screenshots/Page%202.png)
 
 | Visual | What It Shows |
 |---|---|
