@@ -373,6 +373,7 @@ ecommerce-clv-retention-analysis/
 ## Acknowledgements
 
 Dataset: Olist Brazilian E-Commerce Public Dataset - real commercial data generously provided by Olist and published on Kaggle.
+(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Contact
 
