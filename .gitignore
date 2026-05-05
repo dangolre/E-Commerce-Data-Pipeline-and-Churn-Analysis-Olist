@@ -1,0 +1,6 @@
+data/raw/
+*.csv
+__pycache__/
+.DS_Store
+*.ipynb_checkpoints
+outputs/*.html

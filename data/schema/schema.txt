@@ -1,0 +1,2 @@
+# Schema Description
+Describe table relationships and structure here.
